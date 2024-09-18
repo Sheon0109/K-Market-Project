@@ -30,7 +30,9 @@ To run this project, you will need the following installed on your machine:
    First, clone this repository to your local machine using the following command:
 
    git clone https://github.com/Sheon0109/K-Market-Project.git
-   cd K-Market-Project
+
+
+  cd K-Market-Project
    
 ## Run
 python 'API sample.py'

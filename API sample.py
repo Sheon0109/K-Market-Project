@@ -2,7 +2,7 @@ from flask import Flask, jsonify
 import sqlite3
 
 app = Flask(__name__)
-
+## second commit
 # 데이터베이스 파일 경로 설정
 DATABASE = '/mnt/c/Users/ksch3/Downloads/chinook.db'
 
